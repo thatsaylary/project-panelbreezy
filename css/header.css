@@ -10,11 +10,15 @@ li, a, button{
 }
 header{
     display: flex;
+    position: sticky;
+    z-index: 100;
+    top: 0;
     justify-content: space-between;
     align-items: center;
     padding: 0px 5%;
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     height: 70px;
+    transition: all 0.5s ease 0s;
 }
 ul {
     list-style: none;
@@ -37,4 +41,7 @@ a:hover{
 }
 .header:hover{
     background-color: #4997e6;
+}
+.navbar-scrolled{
+    background-color: var(--secondary-color);
 }
