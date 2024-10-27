@@ -1,0 +1,42 @@
+footer{
+    background-color: var(--secondary-color);
+    height: 250px;
+    margin-top: 150px;
+}
+.footer_column .logo_f{
+    max-height: 80px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.footer_logo{
+    display: flex;
+}
+.footer_logoo{
+    max-height: 50px;
+}
+.footer_logo h2{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.footer_main{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.footer_column{
+    margin: 2% 5%;
+}
+.footer_column h2{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.footer_column h3{
+    font-family: "Inter";
+    font-weight: 200;
+    font-size: 25px;
+    line-height: 1;
+    margin-top: 30px;
+}
