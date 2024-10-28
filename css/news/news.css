@@ -1,0 +1,112 @@
+.main_text{
+    font-family: "Montserrat";
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 600;
+}
+.container-buttons{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+.circle{
+    width: 18px;
+    height: 18px;
+    border: none;
+    border-radius: 50%;
+}
+.line{
+    width: 5px;
+    height: 850px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.date1{
+    display:flex;
+    margin-left: 50px;
+    flex-direction: column;
+}
+h2{
+    font-family: "Montserrat";
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: -1px;
+}
+.date span{
+    font-size: 25px;
+    opacity: 50%;
+}
+.date1 h3{
+    font-family: "Inter";
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.add-button{
+    display: flex;
+}
+.added button{
+    background-color: #0BB199;
+    border: none;
+    border-radius: 40px;
+    height: 60px;
+    width: 200px;
+    font-size: 27px;
+    letter-spacing: -1px;
+    font-family: "Inter";
+    margin-top: 20px;
+}
+.add-list{
+    margin-top: 20px;
+}
+h4{
+    font-family: "Inter";
+    font-weight: 300;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+}
+.change-button button{
+    background-color: var(--accent-color);
+    border: none;
+    border-radius: 40px;
+    height: 60px;
+    width: 200px;
+    font-size: 27px;
+    letter-spacing: -1px;
+    font-family: "Inter";
+    margin-top: 20px;
+}
+.change-list{
+    margin-top: 20px;
+}
+.delete-button button{
+    background-color: #DD8771;
+    border: none;
+    border-radius: 40px;
+    height: 60px;
+    width: 200px;
+    font-size: 27px;
+    letter-spacing: -1px;
+    font-family: "Inter";
+    margin-top: 20px;
+}
+.delete-list{
+    margin-top: 20px;
+}
+.thanks h3{
+    font-size: 30px;
+}
