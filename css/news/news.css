@@ -39,7 +39,7 @@ h2{
     font-family: "Montserrat";
     color: white;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: -1px;
 }
 .date span{
@@ -50,7 +50,7 @@ h2{
     font-family: "Inter";
     color: white;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: -1px;
     margin-top: 15px;
     margin-left: 15px;
@@ -74,8 +74,8 @@ h2{
 }
 h4{
     font-family: "Inter";
-    font-weight: 300;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 28px;
     color: white;
     margin-bottom: 20px;
 }
@@ -109,4 +109,8 @@ h4{
 }
 .thanks h3{
     font-size: 30px;
+    font-weight: 400;
+}
+.thanks span{
+    color: #dd8771
 }

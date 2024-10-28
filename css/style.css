@@ -3,6 +3,7 @@
 @import url("footer.css");
 @import url("scrollbar.css");
 @import url("/project-panelbreezy/css/news/news.css");
+@import url("/project-panelbreezy/css/installation/installation.css");
 :root{
   --primary-color: #282828;
   --secondary-color: #323232;
@@ -25,7 +26,6 @@ body{
   font-weight: 700;
   color: var(--accent-color);
   text-align: center;
-  bottom: 50%;
 }
 .h2{
   margin: 0 auto;
