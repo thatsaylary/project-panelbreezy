@@ -77,22 +77,3 @@
     margin-right: 20px;
     text-align: center;
 }
-.epilogue-img{
-    z-index: 10;
-}
-.epilogue-container h1{
-    margin-top: 40px;;
-    font-family: "Montserrat";
-    color: white;
-    font-size: 40px;
-    font-weight: 600;
-    margin-right: 20px;
-    text-align: center;
-}
-.epilogue-text{
-    background-color: var(--secondary-color);
-    margin-top: -70px;
-    border-radius: 50px;
-    padding: 40px 60px;
-    padding-bottom: 70px;
-}

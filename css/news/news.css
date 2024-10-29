@@ -8,8 +8,8 @@
 }
 .container-buttons{
     display: flex;
-    margin-left: 100px;
-    margin-top: 80px;
+    justify-content: center;
+    margin-top: 40px;
 }
 .buttons{
     display: flex;
@@ -25,7 +25,7 @@
 }
 .line{
     width: 5px;
-    height: 850px;
+    height: 900px;
     border: none;
     border-radius: 20px;
     margin-top: 20px;
@@ -113,4 +113,9 @@ h4{
 }
 .thanks span{
     color: #dd8771
+}
+.date1{
+    background-color: var(--secondary-color);
+    padding: 50px 50px;
+    border-radius: 50px;
 }

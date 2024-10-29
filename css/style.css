@@ -4,6 +4,8 @@
 @import url("scrollbar.css");
 @import url("/project-panelbreezy/css/news/news.css");
 @import url("/project-panelbreezy/css/installation/installation.css");
+@import url("/project-panelbreezy/css/help/help.css");
+@import url("/project-panelbreezy/css/download/download.css");
 :root{
   --primary-color: #282828;
   --secondary-color: #323232;
