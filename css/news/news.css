@@ -25,7 +25,7 @@
 }
 .line{
     width: 5px;
-    height: 900px;
+    height: 1380px;
     border: none;
     border-radius: 20px;
     margin-top: 20px;
@@ -118,4 +118,18 @@ h4{
     background-color: var(--secondary-color);
     padding: 50px 50px;
     border-radius: 50px;
+}
+.date2{
+    padding-top: 50px;
+}
+.border-button{
+    margin-top: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    height: 5px;
+}
+.date2 span{
+    font-size: 25px;
+    opacity: 50%;
 }
